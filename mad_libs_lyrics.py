@@ -12,3 +12,11 @@ mad_libs_lyrics.py
 
 * print the new lyrics with variables to the console
 """
+noun1 = 'I'
+verb1 = 'catch'
+verb2 = 'train'
+adjective1 = 'BEST'
+
+print(noun1 + " want to be the very "+adjective1+" like no one ever was.")
+print("To " + verb1 + " them is my real test.")
+print("To "+ verb2 + " them is my CAAAUUUUSSEEE!!")
